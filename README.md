@@ -1,2 +1,2 @@
 # Mayoclinicscrapper
-Mayo clinic disease symptom section web scrapping
+Mayo clinic disease symptom section web scrapping uisng beautifulsoup
